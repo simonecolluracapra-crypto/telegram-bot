@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+orders.txt
+used_codes.txt
+feedback_pending.txt
+feedback_count.txt
+feedback_stars.txt
+
+grafico.png
+grafico_vendite.png
+
+.env
+
